@@ -11,7 +11,7 @@ pipeline {
 
         stage('Lint Checks') {
             steps {
-                script{ 
+                script { 
                     sample.info("Welcome", "stockexchange.com")
                 }
                 sh "echo installing jslint" 
