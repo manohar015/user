@@ -1,4 +1,4 @@
 @Library('robot-shared-library@main') _
 
-env.
+env.COMPONENT=user 
 nodejs()
