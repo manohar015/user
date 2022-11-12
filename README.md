@@ -7,6 +7,7 @@ This service is written in NodeJS, Hence need to install NodeJS in the system.
 
 
 ```
+# curl --silent --location https://rpm.nodesource.com/setup_16.x | sudo bash -
 # yum install nodejs make gcc-c++ -y 
 ```
 
