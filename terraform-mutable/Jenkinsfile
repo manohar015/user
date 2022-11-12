@@ -1,0 +1,6 @@
+@Library('robot-shared-library@main') _
+
+env.REPONAME="user"
+env.TERRAFORM_DIR="terraform-mutable"
+
+terraform()
